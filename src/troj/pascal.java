@@ -23,6 +23,4 @@ public class pascal {
         printPascal(n);
     }
 }
-// This code is contributed
-// by Archit Puri
 
