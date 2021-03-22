@@ -11,6 +11,6 @@ This is my solutions to Hackerrank tasks: <a href="https://www.hackerrank.com/do
 
 
 
-<img src="https://cdn.imgbin.com/1/6/14/imgbin-logo-hackerrank-where-s-weed-java-portable-network-graphics-hacker-photo-f3CPVE3J9qsaF3fFKJjaiGURg.jpg">
+<img src="https://techpoint.org/wp-content/uploads/2020/03/HackerRank-Logo-300-2.png" alt="HR_logo">
 
 
