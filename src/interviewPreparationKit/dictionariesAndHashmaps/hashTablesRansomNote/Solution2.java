@@ -1,4 +1,4 @@
-package interviewPreparationKit.dictionariesAndHashmaps;
+package interviewPreparationKit.dictionariesAndHashmaps.hashTablesRansomNote;
 
 /**
  * ... comment class...
