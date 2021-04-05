@@ -6,7 +6,7 @@
 <br>
 
 <p align='center'>
-This is my solutions for Hackerrank tasks: <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code"><b>30 days of code</b></a> and  <a href="https://www.hackerrank.com/interview/interview-preparation-kit"><b>Interview Preparation Kit</b></a>
+This is my solutions for Hackerrank tasks: <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code"><b>30 days of code</b></a>(30/30 solved) and  <a href="https://www.hackerrank.com/interview/interview-preparation-kit"><b>Interview Preparation Kit</b></a>
 
 <br>
 <br>
