@@ -1,4 +1,4 @@
-package interview_preparation_kit.sorting;
+package interview_preparation_kit.sorting.bubble_sort;
 
 import java.io.BufferedReader;
 import java.io.IOException;
