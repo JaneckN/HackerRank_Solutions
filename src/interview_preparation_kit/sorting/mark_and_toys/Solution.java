@@ -1,7 +1,9 @@
 package interview_preparation_kit.sorting.mark_and_toys;
 
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -33,12 +35,12 @@ class Result {
         int maxQuantityOfToys = 0;
         int totalPrice = 0;
         for (int i = 0; i < sortedList.size(); i++) {
-            if (k -totalPrice >= sortedList.get(i) ){
+            if (k - totalPrice >= sortedList.get(i)) {
                 totalPrice += sortedList.get(i);
                 maxQuantityOfToys++;
             }
-
         }
+
         return maxQuantityOfToys;
 
     }
@@ -61,7 +63,6 @@ public class Solution {
 
         int result = Result.maximumToys(prices, k);
         System.out.println(result);
-
 
 
         bufferedReader.close();
