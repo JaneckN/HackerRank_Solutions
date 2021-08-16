@@ -20,7 +20,7 @@ import static java.util.stream.Collectors.toList;
 
 public class Solution {
 
-    //Partial solution - For Any
+    //Partial solution
 
     // Complete the countTriplets function below.
     static long countTriplets(List<Long> arr, long r) {
