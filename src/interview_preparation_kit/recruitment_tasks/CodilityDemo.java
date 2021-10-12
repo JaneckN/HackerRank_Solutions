@@ -1,4 +1,4 @@
-package interview_preparation_kit.additional;
+package interview_preparation_kit.recruitment_tasks;
 
 import java.util.Arrays;
 
